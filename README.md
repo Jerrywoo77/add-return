@@ -1,1 +1,3 @@
 # add-return
+ struct ReturnableIssue {
+ }
